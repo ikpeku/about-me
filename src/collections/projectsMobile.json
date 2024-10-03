@@ -1,0 +1,16 @@
+[
+	{
+		"name": "Embodiment healthcare",
+		"description": "Affordable healthcare for all.",
+		"image": "/assets/images/projects/embodiment.webp",
+		"url": "https://play.google.com/store/apps/details?id=com.ppi10.embodiment&pli=1",
+		"stack": "React-Native, react.js,"
+	},
+	{
+		"name": "Cryto price tracker",
+		"description": "Authenticated users can view the latest price of coins, search for favorite tokens and invest in any token.",
+		"image": "/assets/images/projects/cryptocart.png",
+		"url": "https://expo.dev/accounts/aloremmanuel/projects/coinbasepro/builds/fe1ea9ef-63c8-4ea4-8c3e-99cada5136d2",
+		"stack": "React-Native, Asyncstorage, firebase, coinegecko, crypto API"
+	}
+]

@@ -1,20 +1,37 @@
 [
 	{
-		"name": "Email.ML",
-		"description": "Minimalist temporary Email.",
-		"image": "/assets/images/projects/email.ml.png",
-		"url": "https://email.ml"
+		"name": "Arellow",
+		"description": "One Stop to Finding a Perfect Property with Arellow Homes.",
+		"image": "/assets/images/projects/arellow.png",
+		"url": "https://www.arellow.com/pages/landing",
+		"stack": "react-native"
 	},
 	{
-		"name": "DNS.Surf",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
-		"image": "/assets/images/projects/dns.surf.png",
-		"url": "https://dns.surf"
+		"name": "Rukah",
+		"description": "Review & Discover Trusted Wedding Vendors.",
+		"image": "/assets/images/projects/rukah.png",
+		"url": "https://rukah.co",
+		"stack": "react.js, redux, typescript, firebase, node.js, express.js, mongodb"
 	},
 	{
-		"name": "HTML.ZONE",
-		"description": "Web Toolbox.",
-		"image": "/assets/images/projects/html.zone.png",
-		"url": "https://html.zone"
+		"name": "Event Planner",
+		"description": "Event Planner is a platform for anyone to find an event to attend, create or host an event.",
+		"image": "/assets/images/projects/eventplanner.png",
+		"url": "https://ikpeku.github.io/crystal-event/index.html",
+		"stack": "swiper.js, html-css-javascript"
+	},
+	{
+		"name": "Cassy store",
+		"description": "A simple ecommmerce site where user can order and manage their favourite product.",
+		"image": "/assets/images/projects/ecommerce.png",
+		"url": "https://cassy-decor.netlify.app",
+		"stack": "html-css, typescript, firebase, React"
+	},
+	{
+		"name": "Royal Stock Shell Investment",
+		"description": "Trading app, user are able to manage their resources by investing in trading and manage their crypto asset.",
+		"image": "/assets/images/projects/royalstock.png",
+		"url": "https://royal-stock.vercel.app",
+		"stack": "html-css-javascript, firebase, React"
 	}
 ]
